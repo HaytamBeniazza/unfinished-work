@@ -1,0 +1,207 @@
+*{
+    font-family: li
+}
+
+.nav_bar{
+    height: 50px;
+    border: 1px solid black;
+    }
+.home_logo{
+    background-color: #C83333;
+    width: 400px;
+    height: 50px;
+    border: 1px solid black;
+    margin-top: -1px;
+    margin-left: -1px;
+}
+.accueil{
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    margin-top: -52px;
+    margin-left: 400px;
+    display: flex;
+    
+}
+.about{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    margin-top: -52px;
+    margin-left: 601px;
+    display: flex;
+}
+.menu{
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    margin-top: -52px;
+    margin-left: 802px;
+    display: flex;
+}
+.contact{
+    background-color: black;
+    width: 209px;
+    height: 50px;
+    border: 1px solid black;
+    margin-top: -52px;
+    margin-left: 1004px;
+    display: flex;
+}
+.accueil_position{
+    font-size: 25px;
+    margin-left: 60px;
+    padding-top: 10px;
+}
+.about_position{
+    font-size: 25px;
+    color: white;
+    margin-left: 55px;
+    padding-top: 10px;
+}
+.menu_position{
+    font-size: 25px;
+    margin-left: 69px;
+    padding-top: 10px;
+}
+.contact_position{
+    font-size: 25px;
+    color: white;
+    margin-left: 65px;
+    padding-top: 10px;
+}
+.accueil_position a{
+    color: black;
+    text-decoration: none;
+}
+.about_position a{
+    color: white;
+    text-decoration: none;
+}
+.menu_position a{
+    color: black;
+    text-decoration: none;
+}
+.contact_position a{
+    color: white;
+    text-decoration: none;
+}
+.image_home{
+    width: 250px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 5px;
+}
+.accueil_text{
+    font-size: 60px;
+    margin-top: 1000px;
+    margin-left: 500px;
+
+}
+.home_img{
+    width: 101%;
+    height: 550px;
+}
+.text_on_image{
+    width: 90%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 0px 2px 4px rgba(0,0,0,0.6);
+}
+.boat_img{
+    width: 432px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 180px;
+}
+.home_title{
+    margin-top: 650px;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+.image2inhome{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.text_part{
+    height: 650px;
+    width: 500px;
+    margin-top: 100px;
+    background-color: black;
+}
+.first_part{
+    display: flex;
+}
+.title_in_black{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    font-size: 50px;
+}
+.text_in_black{
+    text-align: center;
+    color: white;
+    margin-top: 140px;
+    margin-left: 50px;
+    margin-right:50px;
+    font-size: 20px;
+}
+.text_part2{
+    height: 600px;
+    width: 300px;
+    margin-top: 200px;
+    margin-left: 100px;
+    background-color: black;
+}
+.title_in_black2{
+    color: white;
+    margin-top: 200px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 100px;
+    display: flex;
+    align-self: center;
+
+}
+.text_part2{
+    margin-top: 50px;
+   display: flex;
+   flex-direction: column;
+   align-content: center;
+   justify-content: space-between;
+   align-items: center;
+}
+.botona2{
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    align-items: flex-end;
+    background-color: #C83333;
+    cursor: pointer;
+    margin-bottom: 100%;
+}
+.botona{
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+    align-items: center;
+    background-color: #C83333;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin-left: 32%;
+    margin-top: 10%;
+}
